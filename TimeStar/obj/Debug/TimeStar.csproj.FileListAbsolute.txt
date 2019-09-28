@@ -1,0 +1,11 @@
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\bin\Debug\TimeStar.exe.config
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\bin\Debug\TimeStar.exe
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\bin\Debug\TimeStar.pdb
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStar.csprojResolveAssemblyReference.cache
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStar.Form1.resources
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStar.Form2.resources
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStar.Properties.Resources.resources
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStar.csproj.GenerateResource.Cache
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStar.exe
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStar.pdb
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStar.Form3.resources

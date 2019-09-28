@@ -1,0 +1,29 @@
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStart.csprojResolveAssemblyReference.cache
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStar.Form1.resources
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStar.Form2.resources
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStar.Form3.resources
+d:\使用者資料夾(my)\文件\visual studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStart.csproj.GenerateResource.Cache
+D:\使用者資料夾(My)\文件\Visual Studio 2015\Projects\TimeStar\TimeStar\bin\Debug\TimeStart.exe.config
+D:\使用者資料夾(My)\文件\Visual Studio 2015\Projects\TimeStar\TimeStar\bin\Debug\TimeStart.exe
+D:\使用者資料夾(My)\文件\Visual Studio 2015\Projects\TimeStar\TimeStar\bin\Debug\TimeStart.pdb
+D:\使用者資料夾(My)\文件\Visual Studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStart.Properties.Resources.resources
+D:\使用者資料夾(My)\文件\Visual Studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStart.exe
+D:\使用者資料夾(My)\文件\Visual Studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStart.pdb
+D:\使用者資料夾(My)\文件\Visual Studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStart.Form4.resources
+G:\使用者資料夾(My)\文件\Visual Studio 2015\Projects\TimeStar\TimeStar\bin\Debug\TimeStart.exe.config
+G:\使用者資料夾(My)\文件\Visual Studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStart.exe
+G:\使用者資料夾(My)\文件\Visual Studio 2015\Projects\TimeStar\TimeStar\obj\Debug\TimeStart.pdb
+D:\111-03\TimeStart\TimeStar\bin\Debug\TimeStart.exe.config
+D:\111-03\TimeStart\TimeStar\bin\Debug\TimeStart.exe
+D:\111-03\TimeStart\TimeStar\bin\Debug\TimeStart.pdb
+D:\111-03\TimeStart\TimeStar\obj\Debug\TimeStart.csprojResolveAssemblyReference.cache
+D:\111-03\TimeStart\TimeStar\obj\Debug\TimeStar.Form1.resources
+D:\111-03\TimeStart\TimeStar\obj\Debug\TimeStar.Form2.resources
+D:\111-03\TimeStart\TimeStar\obj\Debug\TimeStar.Form3.resources
+D:\111-03\TimeStart\TimeStar\obj\Debug\TimeStart.Form4.resources
+D:\111-03\TimeStart\TimeStar\obj\Debug\TimeStar.Form6.resources
+D:\111-03\TimeStart\TimeStar\obj\Debug\TimeStar.Form7.resources
+D:\111-03\TimeStart\TimeStar\obj\Debug\TimeStart.Properties.Resources.resources
+D:\111-03\TimeStart\TimeStar\obj\Debug\TimeStart.csproj.GenerateResource.Cache
+D:\111-03\TimeStart\TimeStar\obj\Debug\TimeStart.exe
+D:\111-03\TimeStart\TimeStar\obj\Debug\TimeStart.pdb
